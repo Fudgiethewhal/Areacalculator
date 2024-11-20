@@ -1,0 +1,15 @@
+C:\Users\15756\repos\Areacalculator\bin\Debug\net8.0\Areacalculator.exe
+C:\Users\15756\repos\Areacalculator\bin\Debug\net8.0\Areacalculator.deps.json
+C:\Users\15756\repos\Areacalculator\bin\Debug\net8.0\Areacalculator.runtimeconfig.json
+C:\Users\15756\repos\Areacalculator\bin\Debug\net8.0\Areacalculator.dll
+C:\Users\15756\repos\Areacalculator\bin\Debug\net8.0\Areacalculator.pdb
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.AssemblyInfoInputs.cache
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.AssemblyInfo.cs
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.csproj.CoreCompileInputs.cache
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.dll
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\refint\Areacalculator.dll
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.pdb
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.genruntimeconfig.cache
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\ref\Areacalculator.dll
+C:\Users\15756\repos\Areacalculator\obj\Debug\net8.0\Areacalculator.sourcelink.json
